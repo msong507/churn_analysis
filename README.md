@@ -7,6 +7,7 @@ This project was undertaken during the MSCA 37014 5 Python for Analytics course 
 - `author` which contains the user name of the person writing the comment
 - `created_utc` the timestamp of the comment.
 - `subreddit` which contains the name of the subreddit where the author posted a comment.
+- This file is too large for direct upload. For access, please contact the author directly.
 2. ChurnAnalysis.ipynb
 
 ### Objective
